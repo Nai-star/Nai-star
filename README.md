@@ -1,75 +1,161 @@
-# 👩‍💻 Naidelyn Ríos  
-🚀 Técnico en Desarrollo Full Stack | Construyendo soluciones reales  
-📍 Costa Rica  
+# 👩‍💻 Naidelyn Ríos
 
-📧 rnaidelyn.work@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/naidelyn-elisha-rios-ramirez-749240393?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+### 💻 Full Stack Developer | 🔐 Cybersecurity | 🌐 Networking
 
-## 🧠 Sobre mí  
-Soy Técnico en Desarrollo Full Stack con una mentalidad enfocada en el crecimiento constante y el aprendizaje continuo dentro del mundo tecnológico.  
-Me apasiona desarrollar soluciones útiles, trabajar en equipo y enfrentar nuevos retos que me permitan mejorar mis habilidades. Siempre estoy en búsqueda de oportunidades para crecer profesionalmente y adquirir experiencia en proyectos reales.  
-💡 Me destaco especialmente por el manejo de Antigravity, aplicándolo para optimizar procesos y mejorar la eficiencia en mis proyectos.  
-🚀 He participado en hackatones, trabajando bajo presión, colaborando con equipos y desarrollando soluciones en tiempos limitados.  
+📍 Costa Rica 🇨🇷
 
-## 🛠️ Stack Tecnológico  
-### 💻 Desarrollo  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<p align="left">
+  <a href="mailto:rnaidelyn.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naidelyn-elisha-rios-ramirez-749240393/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Nai-star">
+    <img src="https://img.shields.io/badge/GitHub-Nai--star-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-### 🗄️ Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+---
 
-### ⚙️ Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+## 🧠 About Me
 
-### 🚀 Especialidad  
-![Antigravity](https://img.shields.io/badge/Antigravity-Especialidad-000000?style=for-the-badge) ✔️ Optimización de procesos ✔️ Enfoque en eficiencia ✔️ Aplicación en proyectos reales  
+I'm a **Full Stack Developer and CCNA-certified professional** with an interest in cybersecurity, networking, and building technology solutions that address real-world needs.
 
-## 🚀 Experiencia y Proyectos  
-🔹 Participación en hackatones (trabajo en equipo y resolución rápida de problemas)  
-🔹 Desarrollo de aplicaciones web con React  
-🔹 Consumo de APIs  
-🔹 Implementación de bases de datos (MySQL y PostgreSQL)  
-🔹 Diseño de interfaces en Figma  
-🔹 Desarrollo de una página web para una reja (proyecto real)  
-🔹 Proyectos académicos enfocados en soluciones prácticas  
+My background combines web development, database management, network security fundamentals, and collaborative project development. I enjoy learning new technologies, solving problems, and transforming ideas into practical solutions.
 
-## 📈 Actualmente en crecimiento  
-- Desarrollo Full Stack  
-- Backend y bases de datos  
-- Mejores prácticas de desarrollo  
-- Inglés técnico  
-- Experiencia en proyectos reales  
+🚀 **What drives me?**
+- 💻 Building web applications with React, Python, and Django REST Framework.
+- 🔐 Exploring cybersecurity, network defense, and secure configurations.
+- 🤖 Using AI-powered development tools, including Google Antigravity, to support my workflow.
+- 🏆 Participating in hackathons and collaborating on solutions under time constraints.
+- 👩‍🏫 Sharing knowledge as a volunteer cybersecurity facilitator with Rocket Girls CR.
 
-## 🎯 Objetivos  
-- Consolidarme como desarrolladora Full Stack  
-- Seguir participando en hackatones  
-- Trabajar en proyectos reales de impacto  
-- Crecer constantemente en el área tecnológica  
+I'm continuously developing my technical skills and looking for opportunities to contribute to meaningful projects, collaborate with technology teams, and grow professionally.
 
-## 🌟 Habilidades Blandas  
-✔️ Trabajo en equipo 🤝 ✔️ Resolución de problemas 🧠 ✔️ Adaptabilidad ⚡ ✔️ Comunicación efectiva 💬 ✔️ Aprendizaje continuo 📚 ✔️ Pensamiento lógico  
+## 🛠️ Tech Stack
 
-## 🎓 Educación  
-🎓 Técnico en Desarrollo Full Stack  
+### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies"/>
+</p>
 
-## 🗣️ Idiomas  
-- Español: Nativo  
-- Inglés: En proceso de mejora  
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" alt="Backend technologies"/>
+</p>
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nai-star&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nai-star&layout=compact&theme=radical)  
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies"/>
+</p>
 
-## 🐍 Actividad en GitHub  
-![Snake animation](https://github.com/Nai-star/Nai-star/blob/output/github-contribution-grid-snake.svg)  
+### 🔐 Cybersecurity & Networking
 
-## ⚡ Actividad  
-![GitHub Streak](https://streak-stats.demolab.com?user=Nai-star&theme=radical)  
+- Cisco networking and network security fundamentals.
+- Secure network configuration and access control.
+- Wi-Fi security and network defense.
+- Cybersecurity awareness and digital protection.
+- Foundational knowledge of security monitoring and vulnerability management.
 
-## 📫 Contacto  
-📧 rnaidelyn.work@gmail.com
-🔗 LinkedIn: :https://www.linkedin.com/in/naidelyn-elisha-rios-ramirez-749240393?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-📱506 7263 2397
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools"/>
+</p>
 
-## ⚡ Frase  
-> “Siempre en constante crecimiento, aprendiendo, creando y superando nuevos retos.”
+- Google Antigravity and AI-assisted development.
+- REST APIs and API integration.
+- Responsive web design and UI prototyping.
+- Collaborative development and version control.
+
+## 🚀 Featured Projects
+
+### 🩸 VidaConectada
+**A web platform supporting blood donation initiatives.**
+
+Developed as part of a social-impact project in collaboration with the healthcare sector.
+
+- Built the frontend using React and Vite.
+- Developed backend services with Django REST Framework.
+- Integrated a MySQL database.
+- Used Cloudinary for media management.
+- Designed functionality for publishing information and locating blood donation campaigns and related facilities.
+- Collaborated with a team whose project won a hackathon associated with Zona Franca La Lima.
+
+**Technologies:** React · Vite · Python · Django REST Framework · MySQL · Cloudinary
+
+🔗 [Explore my GitHub repositories](https://github.com/Nai-star?tab=repositories)
+
+### 🏡 HabitaNexus
+**A long-term rental platform concept.**
+
+An ongoing concept focused on improving the rental experience through technology, with an emphasis on trust, usability, and structured software architecture.
+
+**Areas of interest:** Flutter · Clean Architecture · BLoC · PostgreSQL · NestJS
+
+*Project technologies and features are subject to ongoing development.*
+
+## 🏆 Certifications & Community
+
+- 🎓 **CCNA certification** — networking and cybersecurity foundations.
+- 💻 **Full Stack Development** — technical training in web development.
+- 👩‍🏫 **Rocket Girls CR** — volunteer facilitator for a six-week cybersecurity fundamentals course for women.
+- 🏅 **Hackathon participant and team collaborator** — experience building practical solutions under time constraints.
+- 🏥 **VidaConectada** — social-impact software development project.
+
+## 📚 Currently Learning & Improving
+
+- 🔐 Cybersecurity and network defense.
+- 🌐 Networking and secure infrastructure.
+- 💻 Full Stack development and backend engineering.
+- 🗄️ Database design and API development.
+- 🇬🇧 Technical English and communication.
+- 🤖 AI-assisted development and productivity tools.
+
+## 🌟 Soft Skills
+
+- 🤝 Teamwork and collaboration.
+- 🧩 Problem-solving and logical thinking.
+- ⚡ Adaptability and continuous learning.
+- 🎯 Organization and attention to detail.
+- 💬 Communication and knowledge sharing.
+- 🚀 Working under pressure and meeting deadlines.
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nai-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nai-star&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+## 🐍 Contribution Activity
+
+<p>
+  <img src="https://raw.githubusercontent.com/Nai-star/Nai-star/output/snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+*The snake animation requires a GitHub Actions workflow to generate the `output/snake.svg` file.*
+
+## 🌐 Languages
+
+- 🇪🇸 Spanish: Native.
+- 🇬🇧 English: Basic level, continuously improving.
+
+## 📫 Let's Connect!
+
+I'm interested in connecting with developers, cybersecurity professionals, recruiters, and teams working on innovative technology projects.
+
+📧 **Email:** rnaidelyn.work@gmail.com
+
+🔗 **LinkedIn:** [Naidelyn Ríos](https://www.linkedin.com/in/naidelyn-elisha-rios-ramirez-749240393/)
+
+💻 **GitHub:** [@Nai-star](https://github.com/Nai-star)
+
+---
+
+<p align="center">
+  <i>"Learning continuously, building with purpose, and using technology to make a difference."</i> 💜
+</p>
